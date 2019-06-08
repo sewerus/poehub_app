@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Poehub</string>
+    <string name="title_activity_name">Poehub</string>
+    <string name="title_categories">Kategorie</string>
+    <string name="title_users">Pisarze</string>
+    <string name="title_favorites">Polubiane</string>
+    <string name="title_observed">Obserwowane</string>
+    <string name="title_activity_poem_detail">PoemDetailActivity</string>
+    <string name="title_activity_user_detail">PoemUserActivity</string>
+    <string name="title_activity_category_detail">PoemCategoryActivity</string>
+</resources>
